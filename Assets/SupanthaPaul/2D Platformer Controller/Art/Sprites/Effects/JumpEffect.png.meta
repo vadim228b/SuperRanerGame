@@ -283,12 +283,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      JumpEffect_0: 21300000
       JumpEffect_1: 21300002
-      JumpEffect_5: 21300010
       JumpEffect_2: 21300004
       JumpEffect_3: 21300006
       JumpEffect_4: 21300008
-      JumpEffect_0: 21300000
+      JumpEffect_5: 21300010
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

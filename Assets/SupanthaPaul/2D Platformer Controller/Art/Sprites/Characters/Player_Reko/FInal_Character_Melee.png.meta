@@ -235,10 +235,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FInal_Character_Melee_3: 21300006
-      FInal_Character_Melee_2: 21300004
       FInal_Character_Melee_0: 21300000
       FInal_Character_Melee_1: 21300002
+      FInal_Character_Melee_2: 21300004
+      FInal_Character_Melee_3: 21300006
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

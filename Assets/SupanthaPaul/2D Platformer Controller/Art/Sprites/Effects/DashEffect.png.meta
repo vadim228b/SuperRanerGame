@@ -524,21 +524,21 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       DashEffect_0: 21300000
-      DashEffect_15: 21300030
-      DashEffect_5: 21300010
-      DashEffect_9: 21300018
-      DashEffect_8: 21300016
-      DashEffect_6: 21300012
-      DashEffect_14: 21300028
       DashEffect_1: 21300002
-      DashEffect_2: 21300004
-      DashEffect_7: 21300014
       DashEffect_10: 21300020
-      DashEffect_12: 21300024
       DashEffect_11: 21300022
-      DashEffect_4: 21300008
-      DashEffect_3: 21300006
+      DashEffect_12: 21300024
       DashEffect_13: 21300026
+      DashEffect_14: 21300028
+      DashEffect_15: 21300030
+      DashEffect_2: 21300004
+      DashEffect_3: 21300006
+      DashEffect_4: 21300008
+      DashEffect_5: 21300010
+      DashEffect_6: 21300012
+      DashEffect_7: 21300014
+      DashEffect_8: 21300016
+      DashEffect_9: 21300018
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

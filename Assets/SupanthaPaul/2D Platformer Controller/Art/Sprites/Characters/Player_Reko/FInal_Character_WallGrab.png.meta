@@ -187,8 +187,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FInal_Character_WallGrab_1: 21300002
       FInal_Character_WallGrab_0: 21300000
+      FInal_Character_WallGrab_1: 21300002
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

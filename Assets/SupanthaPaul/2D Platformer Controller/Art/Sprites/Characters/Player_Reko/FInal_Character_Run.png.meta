@@ -331,14 +331,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FInal_Character_Run_6: 21300012
       FInal_Character_Run_0: 21300000
-      FInal_Character_Run_2: 21300004
-      FInal_Character_Run_7: 21300014
-      FInal_Character_Run_4: 21300008
       FInal_Character_Run_1: 21300002
-      FInal_Character_Run_5: 21300010
+      FInal_Character_Run_2: 21300004
       FInal_Character_Run_3: 21300006
+      FInal_Character_Run_4: 21300008
+      FInal_Character_Run_5: 21300010
+      FInal_Character_Run_6: 21300012
+      FInal_Character_Run_7: 21300014
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
